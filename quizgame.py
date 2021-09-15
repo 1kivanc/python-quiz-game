@@ -436,7 +436,7 @@ Bu oyun python kullanılarak Tkinter kütüphanesinden yapılmıştır
    iyi eğlenceler    
 
    hazırlayan: Kıvanç çoban
-   İletişim: kivancccc48@gmail.com 
+   
             
             """,font=("times new roman",14,"bold"),bg="cadetblue",width=50,height=20)
         self.bilgi.grid(column=0,row=0,padx=120,pady=30)
